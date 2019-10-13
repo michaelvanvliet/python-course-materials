@@ -18,6 +18,7 @@
 * [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
 * [Cheat sheets (Python)](https://www.datacamp.com/community/data-science-cheatsheets)
 * [Python Graph Gallery](https://python-graph-gallery.com)
+* [Markdown for jupyter](https://www.datacamp.com/community/tutorials/markdown-in-jupyter-notebook)
 
 ## Recommended Python libraries
 
@@ -37,4 +38,10 @@
 ### Image analysis
 * [scikit-image](https://scikit-image.org)
 * [mahotas](https://mahotas.readthedocs.io/en/latest/)
+
+## Recommended IDEs
+
+IDEs are usefull for developing code.
+* [PyCharm](https://www.jetbrains.com/pycharm/), free community edition or free pro version for academic use
+* [Spyder](https://www.spyder-ide.org) (included in Anaconda)
 
