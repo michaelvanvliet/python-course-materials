@@ -18,3 +18,23 @@
 * [Effective Pandas](https://github.com/TomAugspurger/effective-pandas)
 * [Cheat sheets (Python)](https://www.datacamp.com/community/data-science-cheatsheets)
 * [Python Graph Gallery](https://python-graph-gallery.com)
+
+## Recommended Python libraries
+
+### Data visualization
+* [matplotlib](https://matplotlib.org)
+* [seaborn](https://seaborn.pydata.org)
+* [ggplot](http://ggplot.yhathq.com/): similar to R's ggplot
+* [plotly](https://plot.ly) and [bokeh](https://bokeh.pydata.org/): interactive plots
+
+### Statistics
+* [scipy](https://www.scipy.org)
+* [statsmodels](https://www.statsmodels.org/stable/index.html)
+
+### Machine learning
+* [scikit-learn](https://scikit-learn.org/stable/)
+
+### Image analysis
+* [scikit-image](https://scikit-image.org)
+* [mahotas](https://mahotas.readthedocs.io/en/latest/)
+
