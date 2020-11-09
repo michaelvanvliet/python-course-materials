@@ -1,0 +1,13 @@
+vim
+nano
+gawk
+tree
+htop
+net-tools
+lynx
+libxml2
+screen
+git
+curl
+python3
+python3-dev
