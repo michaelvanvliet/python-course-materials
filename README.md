@@ -1,5 +1,6 @@
 # Basic programming for drug discovery - Python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/michaelvanvliet/python-course-materials/HEAD)
 
 ## How to set up the Python for this course:
 1. Install [anaconda](https://www.anaconda.com/distribution/)
